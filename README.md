@@ -4,6 +4,22 @@ A desktop-first personal workbench for choosing the next useful task and continu
 
 This repository is a **sanitized source archive**. It contains the application and regression tests, not the owner's task database, documents, messages, account sessions, credentials, or private conversation history. Examples and identifiers are synthetic. It is separate from the running private installation.
 
+## Screenshots
+
+Rendered from the local application with **fictional tasks and synthetic data**. These images contain no real task records, messages, documents, or private conversation links.
+
+### Work overview
+
+![Task overview with a research continuation](docs/screenshots/overview.png)
+
+### Coursework and conversation continuity
+
+![A coursework task with its next action and original-conversation entry](docs/screenshots/coursework.png)
+
+### Optional film library
+
+![The film library, opened separately from the work flow](docs/screenshots/film-library.png)
+
 ## What is included
 
 - Task categories, deadline-aware suggestions, compact completion receipts, and resume links.
